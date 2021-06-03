@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The grievances of his Majesties subjects residing within the principality of Wales in respect of the Court of the Council in the marches of Wales.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23754</idno><idno type="EEBO-CITATION">99888962</idno>
+  <idno type="VID">194039</idno>
+  <idno type="EEBO-PROQUEST">2248544763</idno>
+  
+            <idno type="STC">Wing G1977A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.13[236]</idno>
+            <idno type="STC">ESTC R232579</idno>
+            <idno type="PROQUEST">ocm99888962</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888962e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23754)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 194039)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C29:2[237])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The grievances of his Majesties subjects residing within the principality of Wales in respect of the Court of the Council in the marches of Wales.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1669].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Initial.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Court of the Council in the Marches of Wales --  Early works to 1800.</term>
+               <term type="topical_term">Broadsides --  England --  London --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688 --  Early works to 1800.</term>
+               <term type="geographic_name">Wales --  Politics and government --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:194039:1"/>
+            <head>The GRIEVANCES Of His Majesties Subjects residing within the Principality of WALES in respect of the Court of the Council in the <hi>Marches</hi> of <hi>Wales.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He said Court was at first erected to suppress the violence of the <hi>Welsh,</hi> and for preservation of the peace in the Marches, and in the nature of the late Court of Star-Chamber; but in process of time encroached on the Courts of Common Law, and held Pleas in Civil Actions by English Bill, and took incouragement thereto, by the Clause in 34 and 35 <hi>Hen.</hi> 8. <hi>cap.</hi> 26. that gives that Court power to hear and determine, by their directions, such matters as then-after should be assigned by the King, as then-to-fore used. And the same Act constitutes Courts of the great Sessions in every County, for determining of all Causes and Suits, where there is also a Court of Equity.</p>
+            <div type="grievances">
+               <head>The Grievances.</head>
+               <p n="1">I. That nevertheless, the Judges of the said Court of the Marches do take Cognizance, and take upon them to decree damages in Acti<g ref="char:EOLhyphen"/>ons of Trespass on the Case, Slander, Assault and Battery, <hi>&amp;c.</hi> where the damages are uncertain, and ought by the Law of the Land to be assessed by a Jury.</p>
+               <p n="2">II. That the Defendants in matters of Assault and Battery, are in the said Court compelled to appear to an English Bill, and to answer the same upon Oath, though the same contain matters Criminal.</p>
+               <p n="3">III. That the said Court do hold Plea, hear and make Decrees for small Debts, under forty shillings; and in such Suits, do allow more Costs than the Debts and Damages do amount unto: and that in Actions and Suits for Trespass, Assault and Battery, and on the Case, where the damages are not proved to be above 2 <hi>d.</hi> there are usually given by the said Court 4 or 5 <hi>lib.</hi> costs; and where the Plaintiffs Bill is dismist, it is generally without any Costs to the Defendant; by reason whereof, many vexatious and troublesome Suits are incou<g ref="char:EOLhyphen"/>raged by the Clerks and Sollicitors belonging to the said Court.</p>
+               <p n="4">IV. That no Defendant shall in the said Court have a <hi>Dedimus</hi> to answer, but he must first pay the Plaintiff, or his Attorney, 6 <hi>s.</hi> 8. <hi>d.</hi> which, with the Copy of the Bill, <hi>Dedimus,</hi> Drawing, Answer, and expence of Commissioners, <hi>&amp;c.</hi> will amount to 40 or 50 <hi>s.</hi> notwith<g ref="char:EOLhyphen"/>standing the Debt or Damages in demand is not really 6 <hi>d.</hi> To avoid which expence, and especially when they are sued and molested by beggarly people, the Defendants in such Actions, though there be no Cause of Action against 'em, do chuse rather to compound with the Plaintiff, than to answer the Action with so great an expence; which gives great encouragement to Cursitors and other litigious poor peo<g ref="char:EOLhyphen"/>ple to bring and multiply vexatious Actions in the said Court, whereby the mean and ignorant sort of people within the said Jurisdiction are very much impoverished.</p>
+               <p n="5">V. That the Processes for Contempt in the said Court, were generally directed (not to the Sheriffs) but to private persons, nominated by the Plaintiff, who are not sworn Officers, as well as to Pursuivants, and Serjeant at Arms; by whom several poor people are usually forced from their own habitations, being 100 miles distance, to Prison, to the Lodge at <hi>Ludlow,</hi> for non-payment of the unreasonable and great Fees demanded by such Officers.</p>
+               <p n="6">VI. That where any of his Majesties Courts of <hi>Westminster</hi> do grant Prohibitions, in Causes not properly determinable in the said Court, yet if me Party that procures such Prohibition, after he is put to a considerable Charge, hath no benefit thereof, unless he per<g ref="char:EOLhyphen"/>sonally serves the other party therewith (who will generally abscond) the Judges of the said Court refusing to obey any such Prohibition, or else imprisoning such as serve them therewith.</p>
+               <p n="7">VII. That after Actions brought, or Trials had in his Majesties Court of great Sessions, or in his Majesties Courts at <hi>Westminster,</hi> the Judges of the said Courts of Marches, upon a Bill filed in that Court by the Defendant at Law, suggested matter of Equity, do usually take upon them to grant Injunctions to stay proceedings in the said Courts of <hi>Westminster,</hi> and great Sessions; and in case the Plaintiff at Law go on in any such Actions, will severely proceed against, and imprison such Plaintiffs at Law, if to be found within their Jurisdiction.</p>
+               <p n="8">VIII. That in case of a Writ of Error, of a Judgment in a personal Action in the Grand Sessions in <hi>Wales,</hi> brought in the said Court of the Marches, if after Errors assigned, the Defendant in the Writ of Error pleads a Release, or other matter of fact thereto, the said Court cannot proceed to determine such Error for want of a Jury; whereby such Writs of Error will for ever remain undetermined, and the Plaintiff in the great Sessions shall never have any fruits of his Judgment; which is a failer of Justice, which has several times fallen out in the said Court, upon Writs of Error there brought; besides that the said Court of Marches, which is no Court of Record, take upon them to correct and determine Errors in the great Sessions, which is a Court of Record.</p>
+               <p n="9">IX. If a Sheriff, Bayliff, or other Officer execute any process from that Court for the King or Subject, and the Defendant bringeth an Action of false Imprisonment, such Officer cannot plead Not Guilty, and giveth Process in Evidence, but must be inforced to plead the Statute at large, together with their Instructions, which never yet could be drawn by the best Clerk; besides that it will cost upwards of ten pounds; whereas perhaps, the damage in the Original Action did not exceed 12 <hi>d.</hi>
+               </p>
+               <p n="10">X. They usually alter, and frequently quiet possession upon the filing of a Bill there, without any Process served upon the Defendant; and often-times upon the Oaths of the Prosecutor; whereby men often lose their right, at least, with much charge and difficulty regain the same.</p>
+               <p n="11">XI. Many lewd and dissolute Persons live by serving the Process of the Court, and making <hi>Affidavit</hi> thereof; and though they can nei<g ref="char:EOLhyphen"/>ther write nor read, yet will swear the serving of forty or fifty Processes at one time; wherein they cannot but oftentimes forswear them<g ref="char:EOLhyphen"/>selves, and much prejudice the Defendant.</p>
+               <p n="12">XII. That they usually grant Injunctions to stay proceedings in inferiour Courts, which hold Plea only of Trespasses, and Debts under sorry shillings; whereas it was never intended, the said Court of the Council of the Marches should hold Plea of any Debt under forty shillings.</p>
+               <p n="13">XIII. That the Inhabitants of <hi>Wales</hi> are subject not only to the Court and the Great Sessions, but also to the Court of <hi>Westminster,</hi> and often-times served to appear both at <hi>London</hi> and <hi>Ludlow</hi> in one and the same day; and that the vexatious Suits and Proceedings in the said Court of Marches, and the great oppressions of the Practisers, Clerks, and Officers of the said Court, have been of late, by several Grand Juries of several Counties in <hi>Wales,</hi> presented as a great Grievance, and fit to be redressed.</p>
+               <p n="14">XIV. That the said Court is an expence to his Majesty of many thousand Pounds <hi>per Annum;</hi> and as the Officers, Clerks, and Mini<g ref="char:EOLhyphen"/>sters of the said Court do manage their business there, do only make use of the Power and Authority thereof, to oppress his Majesties Sub<g ref="char:EOLhyphen"/>jects; and there <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eing now no Court of Star-Chamber there, the said Court is now useless, there being Courts of Law and Equity held twice a year of the Grand Sessions, where Causes may be determined, at less charge and trouble to the Parties, within the proper County where they li<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e▪</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
